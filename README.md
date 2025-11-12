@@ -16,6 +16,8 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Plastic fiber loss ~180 dB/km  
 - Bending loss increases with reduced loop diameter  
 
+<img width="512" height="282" alt="image" src="https://github.com/user-attachments/assets/a327c418-09b2-445c-b63c-6101458ba092" />
+
 **Procedure:**  
 - Setup for 660nm and 950nm measurements  
 - Measure output voltages for 1m and 3m fibers  
@@ -38,6 +40,11 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |------------------|---------------------|------------------------|
 |   1m      5cm    |     2v              |    7.6v
 |           3cm    |     2v              |    7                 |                        |
+
+Calculation:
+
+![WhatsApp Image 2025-11-12 at 22 09 48_5908aca6](https://github.com/user-attachments/assets/0f0ef21e-3553-44c7-922a-c4f952e3c674)
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
