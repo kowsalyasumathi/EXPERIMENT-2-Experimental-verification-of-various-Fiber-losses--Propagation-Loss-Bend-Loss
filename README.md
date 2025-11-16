@@ -47,6 +47,6 @@ Calculation:
 
 
 **Result:**  
-Attenuation and bending loss characteristics verified.
+Thus the Attenuation and bending loss characteristics of different wavelengths of 650nm and 950nm of plastic fiber is successfully verified.
 
 ---
